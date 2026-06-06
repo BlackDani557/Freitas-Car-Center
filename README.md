@@ -64,3 +64,5 @@ Futuras Implementações
  -Formulário de agendamento de visitas e test drives;
  -Integração com banco de dados;
  -Chat para atendimento ao cliente.
+
+ [Clique aqui](https://blackdani557.github.io/Freitas-Car-Center/Views/Geral/TelaInicial.html) para acessar o teste do site
