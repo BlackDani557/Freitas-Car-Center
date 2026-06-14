@@ -1,0 +1,55 @@
+@import url(Variavel.css);
+
+*
+{
+    max-width: 100vw;
+}
+
+div.hero
+{
+    color: white;
+    background-color: black;
+    padding: 2rem;
+    width: 100%;
+    height: 70%;
+    display: flex;
+}
+
+div.conteudo
+{
+    margin: auto 1rem auto 1rem;
+}
+
+div.conteudo h1, div.conteudo button, div.conteudo p
+{
+    padding: 1rem;
+    margin: 1rem 0 1rem 0;
+}
+
+div.conteudo button, div.conteudo p
+{
+    margin-left: 3rem;
+}
+
+div.CarrosProcurados
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+div.CarrosProcurados
+{
+    width: calc(33.3333%, 25px);
+    margin: 2rem;
+}
+
+div.card
+{
+    width: 23rem;
+}
+
+h3#TitleProcuradosCarros
+{
+    margin: 1rem 0 0.2rem 1.5rem;
+}
